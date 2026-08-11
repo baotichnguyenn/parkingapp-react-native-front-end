@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>630517783879-1noa1g7nrdokqamdq7bn09r9460185hq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.630517783879-1noa1g7nrdokqamdq7bn09r9460185hq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2EZlg0luCYwy3EwsxtpmZfQEaAbagLvY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>630517783879</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.spotly</string>
+	<key>PROJECT_ID</key>
+	<string>spotly-60a1f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spotly-60a1f.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:630517783879:ios:3098c412dbe7df694b0062</string>
+</dict>
+</plist>

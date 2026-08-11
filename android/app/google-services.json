@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "630517783879",
+    "project_id": "spotly-60a1f",
+    "storage_bucket": "spotly-60a1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630517783879:android:657b962243e3b72f4b0062",
+        "android_client_info": {
+          "package_name": "com.spotly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630517783879-kl18a7t4prhvs0cmqh82th3ltba90vor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spotly",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "630517783879-j3e3hl87b26br6acsat4955mjtupcgkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGW2qIQkFDlVGLcbyK8gQIYsINEoCRKkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630517783879-j3e3hl87b26br6acsat4955mjtupcgkl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "630517783879-1noa1g7nrdokqamdq7bn09r9460185hq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spotly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

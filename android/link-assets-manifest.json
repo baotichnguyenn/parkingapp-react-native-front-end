@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Inter_18pt-Bold.ttf",
+      "sha1": "518a0361a245a66b49bc24ae0137f38328197bdc"
+    },
+    {
+      "path": "src/assets/fonts/Inter_18pt-Light.ttf",
+      "sha1": "6b041e6fc61656b930d8ef638a0b9d6a0ac8e084"
+    },
+    {
+      "path": "src/assets/fonts/Inter_18pt-SemiBold.ttf",
+      "sha1": "f3e44abd6661d5b861e66db22f4f79a6c466cd00"
+    },
+    {
+      "path": "src/assets/fonts/Inter_24pt-Medium.ttf",
+      "sha1": "3b9f3360ca812f2076db0bfc8bed4cfdd951e74f"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "c7d907722af4fb845ab97d515bb414f29651f000"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "4656e40419da86a5fec473ea8e7fc0efef183f05"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "d491c9d0af61faef59ca807737b560170f547f5b"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Bold.ttf",
+      "sha1": "d8091536d0fab37a3239067f708a0221070835da"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Medium.ttf",
+      "sha1": "941255b6a8c1e2d286ed9613bd6b354e2423dad9"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-Regular.ttf",
+      "sha1": "465c464793593babb53e51e2a56562cdd79c237d"
+    },
+    {
+      "path": "src/assets/fonts/Nunito-SemiBold.ttf",
+      "sha1": "047ca2a59c253520cc46b3506744fad6ef8192c6"
+    },
+    {
+      "path": "src/assets/fonts/PlusJakartaSans-Bold.ttf",
+      "sha1": "65d4478e92a9ff9298b748f8088e05972cd18697"
+    },
+    {
+      "path": "src/assets/fonts/PlusJakartaSans-ExtraBold.ttf",
+      "sha1": "91df94a9ed290d7aebbc5f5118d91fda38f9c109"
+    },
+    {
+      "path": "src/assets/fonts/PlusJakartaSans-SemiBold.ttf",
+      "sha1": "93ab83dcdba88999dfb5844e285229c5da6ae63f"
+    }
+  ]
+}
